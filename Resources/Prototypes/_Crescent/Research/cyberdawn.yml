@@ -18,6 +18,22 @@
   - ClothingOuterHardsuitCybersun
 
 - type: technology
+  id: CyberdawnReverseEngi
+  name: research-technology-cyberdawn-reverse-engineering
+  icon:
+    sprite: Nyanotrasen/Structures/Machines/reverse_engineering.rsi
+    state: open
+  discipline: Cyberdawn
+  tier: 1
+  cost: 5000
+  recipeUnlocks:
+  - ReverseEngineeringMachineCircuitboard
+  - AdvancedCapacitorStockPart
+  - AdvancedMatterBinStockPart
+  - NanoManipulatorStockPart
+  - RPED
+
+- type: technology
   id: CyberdawnBasicBallistics
   name: research-technology-cyberdawn-basicballistics
   icon:
