@@ -568,7 +568,7 @@
       - DnaScramblerImplanter
       - EmpImplanter
       - FreedomImplanter
-      - DeathacidifierImplanter
+      - DeathAcidifierImplanter
       - StorageImplanter
       - MicroBombImplanter
       - MacroBombImplanter
@@ -845,7 +845,7 @@
       - WeaponSubMachineGunNCWLWatchdog
       - ClothingOuterHardsuitNCWLInfantry
       - ClothingOuterHardsuitNCWLMedi
-      - ClothingOuterHardsuitNCWLLogi
+      - ClothingOuterHardsuitNCWLEngi
       - VanguardLPC
       - LodkaLPC
       - MolotLPC

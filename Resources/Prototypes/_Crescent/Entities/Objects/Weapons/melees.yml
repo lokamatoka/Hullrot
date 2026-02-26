@@ -519,6 +519,7 @@
   - type: SurgeryTool
     startSound:
       path: /Audio/Weapons/bladeslice.ogg
+  - type: ReverseEngineering # Sector Crescent
     difficulty: 3
     recipes:
       - DSMZweihander #You need nothing else.

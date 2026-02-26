@@ -509,7 +509,7 @@
     Gold: 300
     Silver: 500
     Steel: 3000
-    Tungsten: 2000 #added 5 pieces of tungsten, since it's NCWL's lightest/civilain mech.
+    Tungsten: 3000 #added 15 pieces of tungsten, since it's NCWL's lightest/civilain mech and is stronger than DSM's light mech.
 
 - type: latheRecipe
   id: BogatyrFlatpack

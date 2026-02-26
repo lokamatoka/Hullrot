@@ -220,6 +220,7 @@
   - type: Tag
     tags:
     - ScoutMechEquipment
+  - type: ReverseEngineering # Sector Crescent
     recipes:
       - WeaponMechMaul
       - WeaponMechSword

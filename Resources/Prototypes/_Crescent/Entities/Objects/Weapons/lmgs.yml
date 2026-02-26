@@ -255,7 +255,7 @@
     steps: 1
     zeroVisible: true
   - type: Appearance
-  - type: ReverseEngineering
+  - type: ReverseEngineering # Sector Crescent
     difficulty: 2
     recipes:
       - WeaponLightMachineGunNCSPRPD
@@ -317,6 +317,7 @@
     steps: 3
     zeroVisible: true
   - type: Appearance
+  - type: ReverseEngineering # Sector Crescent
     difficulty: 2
     recipes:
       - WeaponLightMachineGunDSMDominion

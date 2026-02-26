@@ -749,11 +749,11 @@
   completetime: 2
   materials:
     BasicMechatronics: 2500
-    AdvancedElectronics: 1000
+    AdvancedElectronics: 1500 #increased this by one electronic to make up for slight speed advantage over NCWL light mech
     Gold: 300
     Silver: 500
     Steel: 3000
-    Tungsten: 2000 #made the price the same as NCWL's lancer.
+    Tungsten: 2000
 
 - type: latheRecipe
   id: PaladinFlatpack
