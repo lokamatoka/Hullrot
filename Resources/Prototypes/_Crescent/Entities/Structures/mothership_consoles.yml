@@ -302,7 +302,8 @@
   - type: ShipyardListing
     shuttles:
     - Cog
-    
+
+- type: entity
   id: CovetorMothershipComputer
   parent: BaseMothershipComputer
   name: covetor internal shipyard
