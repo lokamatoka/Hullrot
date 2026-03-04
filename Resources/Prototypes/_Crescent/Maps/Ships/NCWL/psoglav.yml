@@ -19,7 +19,7 @@
   minPlayers: 0
   stations:
     Psoglav:
-      stationProto: StandardCrescentVessel
+      stationProto: StandardCrescentStation
       components:
         - type: VesselIcon
           iffIcon:
