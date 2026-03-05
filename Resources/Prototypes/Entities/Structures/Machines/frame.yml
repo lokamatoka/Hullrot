@@ -124,6 +124,25 @@
           whitelist:
             components:
             - MachineBoard
+            
+- type: entity
+  id: WarshipComponentsMachineFrame
+  parent: MachineFrame
+  name: machine frame
+  components:
+   - type: Destructible
+      thresholds:
+      - trigger:
+          !type:DamageTrigger
+          damage: 400
+        behaviors:
+        - !type:PlaySoundBehavior
+          sound:
+            collection: MetalBreak
+        - !type:ChangeConstructionNodeBehavior
+          node: missingWires
+        - !type:DoActsBehavior
+          acts: ["Destruction"]
 
 - type: entity
   id: MachineFrameDestroyed
