@@ -258,8 +258,6 @@
   items:
     - BoxSurvivalSlots # 'rot & goob
   requirements:
-    - !type:CharacterDepartmentRequirement
-       inverted: true
     - !type:CharacterItemGroupRequirement
       group: LoadoutBoxKits
 
