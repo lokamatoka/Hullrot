@@ -101,7 +101,7 @@
   parent: BaseItem
   id: ShipVoucherKhan
   name: DSM 'Khan' pattern LPC fabprint disk
-  description: An LPC fabprint disk loaded with an Imperial Voruna-class subshuttle. Has to be redeemed at a shipyard console.
+  description: An LPC fabprint disk loaded with an Imperial Khan-class subshuttle. Has to be redeemed at a shipyard console.
   components:
   - type: Item
     size: Small
